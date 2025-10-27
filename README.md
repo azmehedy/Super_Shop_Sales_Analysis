@@ -50,3 +50,6 @@ To visualize and analyze sales data for better business decision-making and iden
 - **Customer Type Distribution:** Member vs. Normal
 
 ---
+## For Details:
+### Follow the project report (https://github.com/azmehedy/Super_Shop_Sales_Analysis/blob/main/Super_Shop_Sales_Project_Report.pdf)
+---
