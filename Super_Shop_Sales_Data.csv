@@ -1,0 +1,501 @@
+Date,Invoice ID,Customer Type,Gender,Product Line,Unit Price,Quantity,Payment Method,City,Rating,Total
+4/12/2024,INV-1000,Normal,Male,Health & Beauty,940.37,6,Mobile Payment,Rajshahi,9.8,5642.22
+12/14/2024,INV-1001,Member,Male,Sports,703.49,1,Cash,Sylhet,7.9,703.49
+9/27/2024,INV-1002,Normal,Female,Food & Beverages,114.45,4,Mobile Payment,Rajshahi,6.8,457.8
+4/16/2024,INV-1003,Member,Female,Sports,335.92,1,Card,Khulna,8.9,335.92
+3/12/2024,INV-1004,Normal,Female,Sports,722.76,6,Mobile Payment,Rajshahi,6.3,4336.56
+7/7/2024,INV-1005,Normal,Female,Health & Beauty,113.98,4,Cash,Khulna,7.8,455.92
+1/21/2024,INV-1006,Normal,Male,Fashion,603.06,3,Mobile Payment,Dhaka,6.8,1809.18
+4/12/2024,INV-1007,Member,Female,Electronics,378.59,3,Cash,Rajshahi,8.3,1135.77
+5/1/2024,INV-1008,Normal,Female,Food & Beverages,639.87,9,Mobile Payment,Sylhet,6.2,5758.83
+8/2/2024,INV-1009,Normal,Male,Health & Beauty,93.45,6,Cash,Khulna,6,560.7
+11/26/2024,INV-1010,Normal,Male,Fashion,877.96,9,Cash,Sylhet,9.6,7901.64
+3/28/2024,INV-1011,Normal,Male,Electronics,974.81,5,Card,Chittagong,5.5,4874.05
+4/9/2024,INV-1012,Member,Female,Electronics,970.43,2,Cash,Khulna,7.5,1940.86
+12/25/2024,INV-1013,Normal,Male,Health & Beauty,762.17,8,Card,Rajshahi,6.1,6097.36
+5/31/2024,INV-1014,Member,Male,Home & Lifestyle,173.58,5,Card,Khulna,5.2,867.9
+5/10/2024,INV-1015,Member,Male,Food & Beverages,770.35,2,Card,Sylhet,5.2,1540.7
+5/29/2024,INV-1016,Member,Female,Electronics,73.36,4,Mobile Payment,Dhaka,5.9,293.44
+11/4/2024,INV-1017,Member,Male,Health & Beauty,71.02,9,Mobile Payment,Khulna,9.3,639.18
+9/14/2024,INV-1018,Member,Female,Health & Beauty,357.43,4,Mobile Payment,Rajshahi,6.4,1429.72
+12/9/2024,INV-1019,Member,Female,Fashion,514.21,4,Mobile Payment,Chittagong,9.8,2056.84
+10/20/2024,INV-1020,Normal,Male,Home & Lifestyle,781.89,2,Cash,Dhaka,7.9,1563.78
+7/10/2024,INV-1021,Member,Male,Food & Beverages,699.13,6,Cash,Chittagong,7.2,4194.78
+10/3/2024,INV-1022,Member,Female,Sports,473.61,2,Mobile Payment,Khulna,7.9,947.22
+6/9/2024,INV-1023,Member,Male,Fashion,309.95,7,Cash,Sylhet,7.6,2169.65
+11/9/2024,INV-1024,Normal,Male,Electronics,997.27,3,Cash,Sylhet,8.8,2991.81
+1/22/2024,INV-1025,Normal,Female,Electronics,454.87,3,Card,Rajshahi,6.4,1364.61
+9/9/2024,INV-1026,Member,Female,Fashion,478.82,5,Card,Sylhet,6.8,2394.1
+8/23/2024,INV-1027,Normal,Male,Health & Beauty,205.44,3,Card,Dhaka,9.5,616.32
+12/10/2024,INV-1028,Member,Female,Electronics,805.07,2,Card,Sylhet,9.7,1610.14
+2/18/2024,INV-1029,Member,Male,Home & Lifestyle,709,9,Cash,Rajshahi,9.5,6381
+2/28/2024,INV-1030,Normal,Male,Food & Beverages,259.73,2,Mobile Payment,Khulna,7.1,519.46
+6/18/2024,INV-1031,Member,Male,Home & Lifestyle,128.26,2,Cash,Khulna,8.9,256.52
+7/6/2024,INV-1032,Normal,Female,Electronics,696.47,8,Cash,Sylhet,7.4,5571.76
+9/27/2024,INV-1033,Normal,Male,Sports,671.79,9,Cash,Chittagong,7.5,6046.11
+7/8/2024,INV-1034,Member,Male,Food & Beverages,309.6,7,Card,Khulna,6,2167.2
+6/23/2024,INV-1035,Member,Male,Food & Beverages,953.32,3,Card,Sylhet,8,2859.96
+2/20/2024,INV-1036,Normal,Female,Fashion,193.5,9,Card,Rajshahi,5.9,1741.5
+12/29/2024,INV-1037,Member,Female,Fashion,460.72,3,Mobile Payment,Sylhet,6.7,1382.16
+2/24/2024,INV-1038,Member,Female,Sports,946.44,5,Cash,Khulna,9.3,4732.2
+8/31/2024,INV-1039,Member,Female,Health & Beauty,448.74,9,Mobile Payment,Rajshahi,6,4038.66
+11/15/2024,INV-1040,Normal,Female,Food & Beverages,656.6,3,Card,Sylhet,5.4,1969.8
+5/10/2024,INV-1041,Normal,Male,Sports,427.71,7,Mobile Payment,Dhaka,5.3,2993.97
+11/2/2024,INV-1042,Member,Female,Fashion,310.5,1,Cash,Rajshahi,9.7,310.5
+5/14/2024,INV-1043,Normal,Female,Fashion,984.78,4,Cash,Dhaka,7.5,3939.12
+1/21/2024,INV-1044,Normal,Female,Food & Beverages,438.87,4,Card,Chittagong,7,1755.48
+11/24/2024,INV-1045,Normal,Male,Home & Lifestyle,899.39,7,Card,Rajshahi,9.1,6295.73
+6/15/2024,INV-1046,Normal,Female,Electronics,268.46,8,Mobile Payment,Dhaka,9.2,2147.68
+9/30/2024,INV-1047,Normal,Female,Fashion,252.45,1,Card,Khulna,6.7,252.45
+3/29/2024,INV-1048,Member,Male,Health & Beauty,79.58,5,Card,Khulna,8.5,397.9
+11/11/2024,INV-1049,Member,Female,Health & Beauty,669.08,7,Cash,Chittagong,8.9,4683.56
+1/14/2024,INV-1050,Member,Male,Fashion,400.1,4,Card,Rajshahi,8.3,1600.4
+8/29/2024,INV-1051,Normal,Male,Home & Lifestyle,871.14,4,Card,Rajshahi,5.8,3484.56
+9/21/2024,INV-1052,Normal,Male,Home & Lifestyle,499.55,4,Cash,Rajshahi,9.4,1998.2
+12/11/2024,INV-1053,Member,Male,Sports,969.78,6,Cash,Chittagong,7.7,5818.68
+2/22/2024,INV-1054,Normal,Male,Health & Beauty,226.25,7,Mobile Payment,Rajshahi,6.4,1583.75
+12/5/2024,INV-1055,Member,Female,Sports,875.19,2,Card,Khulna,7.1,1750.38
+4/1/2024,INV-1056,Member,Male,Health & Beauty,787.77,5,Cash,Dhaka,5.2,3938.85
+9/20/2024,INV-1057,Member,Male,Electronics,782.38,4,Mobile Payment,Khulna,5.6,3129.52
+2/4/2024,INV-1058,Normal,Female,Electronics,852.54,3,Mobile Payment,Khulna,8.8,2557.62
+7/24/2024,INV-1059,Normal,Male,Food & Beverages,772.97,7,Card,Dhaka,5,5410.79
+3/21/2024,INV-1060,Member,Female,Sports,644.91,6,Card,Khulna,7.1,3869.46
+2/19/2024,INV-1061,Member,Female,Fashion,174.68,7,Mobile Payment,Chittagong,7.6,1222.76
+12/25/2024,INV-1062,Member,Female,Sports,80.9,5,Cash,Dhaka,5.3,404.5
+1/2/2024,INV-1063,Member,Male,Fashion,924.81,6,Mobile Payment,Khulna,9.9,5548.86
+2/23/2024,INV-1064,Normal,Male,Home & Lifestyle,635.82,5,Card,Sylhet,6.1,3179.1
+4/15/2024,INV-1065,Normal,Male,Sports,806.71,7,Cash,Khulna,6.5,5646.97
+9/16/2024,INV-1066,Member,Female,Home & Lifestyle,507.45,2,Cash,Chittagong,6.5,1014.9
+11/5/2024,INV-1067,Member,Male,Electronics,161.44,5,Mobile Payment,Rajshahi,6.2,807.2
+7/9/2024,INV-1068,Normal,Male,Electronics,168.93,6,Card,Khulna,5,1013.58
+8/5/2024,INV-1069,Normal,Male,Food & Beverages,701.29,6,Mobile Payment,Rajshahi,8.6,4207.74
+2/13/2024,INV-1070,Member,Female,Sports,458.79,5,Mobile Payment,Sylhet,9.8,2293.95
+6/10/2024,INV-1071,Member,Female,Home & Lifestyle,240.5,7,Mobile Payment,Khulna,6.1,1683.5
+7/20/2024,INV-1072,Member,Male,Fashion,517.01,8,Cash,Dhaka,8.3,4136.08
+9/26/2024,INV-1073,Normal,Male,Electronics,111,7,Cash,Rajshahi,8.7,777
+12/16/2024,INV-1074,Normal,Male,Electronics,602.87,5,Card,Sylhet,9.2,3014.35
+10/30/2024,INV-1075,Normal,Male,Fashion,305.54,1,Card,Dhaka,7.1,305.54
+9/27/2024,INV-1076,Member,Female,Home & Lifestyle,807.68,5,Mobile Payment,Dhaka,6.5,4038.4
+8/2/2024,INV-1077,Member,Female,Home & Lifestyle,344.84,2,Mobile Payment,Dhaka,6.6,689.68
+9/8/2024,INV-1078,Normal,Female,Sports,482.46,5,Mobile Payment,Dhaka,8.6,2412.3
+7/8/2024,INV-1079,Normal,Female,Sports,61.04,5,Card,Khulna,9.1,305.2
+10/22/2024,INV-1080,Member,Male,Health & Beauty,118.82,2,Cash,Khulna,5.9,237.64
+7/31/2024,INV-1081,Normal,Male,Health & Beauty,422.87,5,Cash,Khulna,6.9,2114.35
+7/26/2024,INV-1082,Normal,Male,Food & Beverages,505.94,4,Mobile Payment,Sylhet,9.5,2023.76
+8/24/2024,INV-1083,Member,Female,Electronics,620.02,1,Mobile Payment,Sylhet,9,620.02
+12/3/2024,INV-1084,Normal,Male,Sports,327.08,3,Mobile Payment,Sylhet,9.9,981.24
+2/22/2024,INV-1085,Member,Female,Home & Lifestyle,710.23,1,Mobile Payment,Chittagong,8.8,710.23
+10/6/2024,INV-1086,Member,Female,Fashion,867.12,5,Card,Sylhet,7,4335.6
+8/4/2024,INV-1087,Member,Male,Home & Lifestyle,790.86,4,Cash,Khulna,8,3163.44
+9/8/2024,INV-1088,Member,Male,Electronics,87.64,7,Mobile Payment,Khulna,8.3,613.48
+7/6/2024,INV-1089,Member,Male,Health & Beauty,506.48,5,Card,Chittagong,5.4,2532.4
+2/10/2024,INV-1090,Member,Female,Home & Lifestyle,149.68,4,Mobile Payment,Chittagong,7.7,598.72
+6/5/2024,INV-1091,Member,Male,Food & Beverages,279.94,2,Mobile Payment,Sylhet,8.5,559.88
+1/15/2024,INV-1092,Normal,Female,Electronics,987.33,4,Cash,Rajshahi,5.8,3949.32
+10/27/2024,INV-1093,Member,Male,Health & Beauty,185.37,2,Mobile Payment,Chittagong,8.9,370.74
+3/5/2024,INV-1094,Member,Female,Fashion,523.94,8,Cash,Dhaka,7.9,4191.52
+12/10/2024,INV-1095,Normal,Female,Health & Beauty,637.25,3,Cash,Khulna,9.8,1911.75
+11/22/2024,INV-1096,Normal,Male,Food & Beverages,717.34,9,Cash,Dhaka,5.2,6456.06
+1/9/2024,INV-1097,Normal,Female,Electronics,581.67,4,Card,Khulna,6.3,2326.68
+12/9/2024,INV-1098,Member,Female,Fashion,59.28,6,Card,Khulna,8,355.68
+5/8/2024,INV-1099,Normal,Male,Food & Beverages,360.14,5,Cash,Chittagong,6.5,1800.7
+5/15/2024,INV-1100,Member,Female,Health & Beauty,541.83,1,Mobile Payment,Chittagong,8.6,541.83
+3/3/2024,INV-1101,Member,Male,Food & Beverages,133.47,9,Cash,Dhaka,8.8,1201.23
+5/18/2024,INV-1102,Member,Female,Electronics,383.1,1,Mobile Payment,Khulna,5.5,383.1
+3/21/2024,INV-1103,Member,Male,Sports,81.54,8,Cash,Dhaka,7.6,652.32
+6/11/2024,INV-1104,Normal,Male,Food & Beverages,124.65,9,Mobile Payment,Rajshahi,7.5,1121.85
+10/15/2024,INV-1105,Normal,Female,Food & Beverages,427.08,9,Card,Dhaka,6.8,3843.72
+9/17/2024,INV-1106,Member,Female,Health & Beauty,176.08,1,Mobile Payment,Sylhet,9.7,176.08
+8/18/2024,INV-1107,Member,Female,Health & Beauty,589.16,2,Cash,Dhaka,9.1,1178.32
+2/10/2024,INV-1108,Member,Female,Fashion,704.99,1,Card,Sylhet,8.5,704.99
+1/28/2024,INV-1109,Normal,Female,Health & Beauty,810.56,2,Mobile Payment,Sylhet,8.6,1621.12
+5/14/2024,INV-1110,Member,Male,Home & Lifestyle,240.14,8,Mobile Payment,Sylhet,7.3,1921.12
+7/19/2024,INV-1111,Member,Female,Electronics,209.11,5,Mobile Payment,Rajshahi,9.6,1045.55
+11/23/2024,INV-1112,Normal,Male,Electronics,149.34,7,Mobile Payment,Dhaka,8.5,1045.38
+9/24/2024,INV-1113,Normal,Male,Sports,654.61,2,Mobile Payment,Dhaka,8.6,1309.22
+2/2/2024,INV-1114,Member,Female,Sports,721.15,8,Card,Rajshahi,9.3,5769.2
+2/17/2024,INV-1115,Normal,Male,Electronics,80.01,6,Card,Khulna,6.4,480.06
+3/2/2024,INV-1116,Normal,Male,Sports,939.4,8,Card,Chittagong,9,7515.2
+8/3/2024,INV-1117,Member,Male,Fashion,99.37,1,Card,Dhaka,6,99.37
+10/19/2024,INV-1118,Normal,Male,Health & Beauty,564.23,1,Cash,Chittagong,6.7,564.23
+4/8/2024,INV-1119,Member,Female,Electronics,723.61,7,Card,Rajshahi,6.7,5065.27
+6/20/2024,INV-1120,Normal,Male,Sports,877.42,8,Mobile Payment,Khulna,9.9,7019.36
+12/25/2024,INV-1121,Member,Female,Electronics,728.38,3,Mobile Payment,Khulna,9.3,2185.14
+8/1/2024,INV-1122,Member,Female,Home & Lifestyle,811.64,5,Card,Khulna,8.5,4058.2
+2/4/2024,INV-1123,Member,Male,Food & Beverages,372.48,1,Mobile Payment,Rajshahi,8.6,372.48
+8/14/2024,INV-1124,Normal,Female,Health & Beauty,824.08,7,Card,Sylhet,7.8,5768.56
+4/10/2024,INV-1125,Member,Female,Electronics,126.11,5,Mobile Payment,Sylhet,9.7,630.55
+5/10/2024,INV-1126,Normal,Female,Food & Beverages,900.08,8,Cash,Chittagong,7.5,7200.64
+9/13/2024,INV-1127,Member,Male,Sports,570.21,8,Cash,Sylhet,6.9,4561.68
+1/5/2024,INV-1128,Member,Female,Food & Beverages,826.43,9,Card,Sylhet,5.8,7437.87
+8/5/2024,INV-1129,Normal,Female,Health & Beauty,479.7,7,Card,Khulna,8.9,3357.9
+9/11/2024,INV-1130,Member,Female,Electronics,661.4,1,Card,Khulna,8.7,661.4
+12/24/2024,INV-1131,Member,Male,Home & Lifestyle,550.08,3,Mobile Payment,Chittagong,6.9,1650.24
+10/9/2024,INV-1132,Normal,Female,Sports,745.01,8,Card,Dhaka,5.1,5960.08
+7/25/2024,INV-1133,Member,Male,Electronics,127.55,3,Cash,Chittagong,9.2,382.65
+1/15/2024,INV-1134,Member,Male,Health & Beauty,107.33,8,Mobile Payment,Chittagong,5.1,858.64
+12/11/2024,INV-1135,Member,Male,Sports,284.75,1,Card,Rajshahi,8.5,284.75
+2/11/2024,INV-1136,Member,Male,Fashion,201.57,5,Mobile Payment,Rajshahi,9.9,1007.85
+6/27/2024,INV-1137,Normal,Male,Food & Beverages,878.19,4,Mobile Payment,Chittagong,7.2,3512.76
+3/3/2024,INV-1138,Normal,Male,Health & Beauty,258.25,5,Card,Chittagong,6.2,1291.25
+12/17/2024,INV-1139,Member,Female,Fashion,977.07,8,Mobile Payment,Chittagong,8.5,7816.56
+8/18/2024,INV-1140,Normal,Male,Electronics,370.05,4,Cash,Sylhet,9.1,1480.2
+8/28/2024,INV-1141,Member,Female,Home & Lifestyle,223.01,4,Cash,Rajshahi,7.7,892.04
+2/21/2024,INV-1142,Normal,Female,Sports,800.21,3,Mobile Payment,Chittagong,9.8,2400.63
+4/5/2024,INV-1143,Member,Male,Food & Beverages,675.77,7,Card,Khulna,5.3,4730.39
+8/9/2024,INV-1144,Member,Female,Sports,523.29,3,Mobile Payment,Khulna,7.5,1569.87
+8/18/2024,INV-1145,Member,Female,Electronics,577.6,3,Cash,Sylhet,8.6,1732.8
+8/24/2024,INV-1146,Member,Female,Sports,733.24,5,Mobile Payment,Sylhet,9.3,3666.2
+5/22/2024,INV-1147,Member,Female,Food & Beverages,267.03,5,Mobile Payment,Dhaka,5.9,1335.15
+6/19/2024,INV-1148,Member,Male,Electronics,996.52,6,Cash,Dhaka,9,5979.12
+1/29/2024,INV-1149,Normal,Female,Sports,976.05,8,Mobile Payment,Dhaka,7.8,7808.4
+2/5/2024,INV-1150,Member,Male,Home & Lifestyle,667.81,6,Mobile Payment,Sylhet,7,4006.86
+1/13/2024,INV-1151,Normal,Female,Health & Beauty,239.57,1,Card,Sylhet,5.7,239.57
+6/8/2024,INV-1152,Member,Female,Electronics,696.22,8,Card,Sylhet,9.3,5569.76
+11/22/2024,INV-1153,Normal,Male,Health & Beauty,118.59,8,Cash,Khulna,5.8,948.72
+7/5/2024,INV-1154,Normal,Female,Electronics,79.12,9,Cash,Sylhet,6.5,712.08
+8/30/2024,INV-1155,Normal,Female,Home & Lifestyle,294.8,9,Cash,Khulna,6.5,2653.2
+3/26/2024,INV-1156,Member,Female,Health & Beauty,489.49,2,Card,Dhaka,9.4,978.98
+10/10/2024,INV-1157,Member,Male,Fashion,874.86,2,Cash,Dhaka,8.4,1749.72
+3/6/2024,INV-1158,Normal,Female,Food & Beverages,740.81,3,Cash,Dhaka,9,2222.43
+6/18/2024,INV-1159,Member,Male,Fashion,755.57,1,Cash,Chittagong,6.3,755.57
+2/14/2024,INV-1160,Normal,Female,Sports,454.22,4,Card,Chittagong,8.1,1816.88
+3/2/2024,INV-1161,Member,Male,Home & Lifestyle,378.64,4,Mobile Payment,Rajshahi,7.9,1514.56
+5/13/2024,INV-1162,Normal,Male,Fashion,402.49,9,Cash,Rajshahi,9.2,3622.41
+10/10/2024,INV-1163,Normal,Female,Electronics,988.27,9,Mobile Payment,Rajshahi,9.5,8894.43
+1/28/2024,INV-1164,Member,Female,Sports,88.1,9,Cash,Chittagong,5.1,792.9
+4/17/2024,INV-1165,Normal,Male,Sports,873.68,7,Mobile Payment,Chittagong,8.4,6115.76
+2/13/2024,INV-1166,Member,Male,Fashion,599.74,2,Card,Rajshahi,5.3,1199.48
+12/5/2024,INV-1167,Normal,Female,Fashion,466.68,5,Card,Rajshahi,7.7,2333.4
+10/12/2024,INV-1168,Normal,Male,Home & Lifestyle,738.99,4,Cash,Sylhet,6.4,2955.96
+11/26/2024,INV-1169,Member,Female,Food & Beverages,512.34,8,Mobile Payment,Rajshahi,6.5,4098.72
+5/7/2024,INV-1170,Member,Female,Fashion,879.75,2,Card,Sylhet,6.8,1759.5
+12/13/2024,INV-1171,Member,Female,Fashion,905.67,6,Cash,Khulna,8.1,5434.02
+8/18/2024,INV-1172,Normal,Female,Health & Beauty,450.63,5,Cash,Chittagong,6.7,2253.15
+7/8/2024,INV-1173,Member,Male,Electronics,312.99,2,Card,Rajshahi,8.7,625.98
+8/12/2024,INV-1174,Normal,Female,Health & Beauty,612.73,1,Card,Chittagong,7,612.73
+10/9/2024,INV-1175,Normal,Male,Health & Beauty,916.75,8,Cash,Chittagong,5.3,7334
+4/30/2024,INV-1176,Member,Female,Sports,250.13,2,Mobile Payment,Chittagong,8.9,500.26
+4/25/2024,INV-1177,Member,Male,Food & Beverages,641.82,7,Mobile Payment,Khulna,6.4,4492.74
+8/20/2024,INV-1178,Normal,Female,Electronics,649.98,9,Mobile Payment,Dhaka,7.2,5849.82
+9/15/2024,INV-1179,Normal,Male,Home & Lifestyle,746.46,9,Cash,Rajshahi,8.4,6718.14
+12/24/2024,INV-1180,Member,Male,Home & Lifestyle,174.99,8,Card,Dhaka,6.7,1399.92
+7/16/2024,INV-1181,Member,Female,Fashion,730.03,9,Cash,Dhaka,5.3,6570.27
+5/16/2024,INV-1182,Member,Female,Fashion,913.58,2,Card,Dhaka,6.9,1827.16
+11/13/2024,INV-1183,Member,Female,Home & Lifestyle,220.7,6,Mobile Payment,Chittagong,9.7,1324.2
+6/13/2024,INV-1184,Member,Female,Fashion,275.67,4,Mobile Payment,Sylhet,8.2,1102.68
+8/12/2024,INV-1185,Normal,Male,Food & Beverages,972.83,4,Card,Chittagong,8.4,3891.32
+11/2/2024,INV-1186,Normal,Female,Health & Beauty,221.93,5,Card,Chittagong,8.2,1109.65
+8/21/2024,INV-1187,Normal,Male,Fashion,861.67,3,Cash,Dhaka,6,2585.01
+6/20/2024,INV-1188,Normal,Male,Sports,517.66,1,Mobile Payment,Chittagong,7.1,517.66
+5/31/2024,INV-1189,Member,Female,Fashion,284.87,8,Cash,Dhaka,8.8,2278.96
+11/10/2024,INV-1190,Member,Male,Electronics,877.21,5,Cash,Sylhet,5.5,4386.05
+6/8/2024,INV-1191,Member,Male,Food & Beverages,473.04,3,Cash,Rajshahi,6.4,1419.12
+4/5/2024,INV-1192,Normal,Male,Electronics,539.08,7,Mobile Payment,Dhaka,6.4,3773.56
+8/20/2024,INV-1193,Normal,Male,Electronics,391.27,7,Cash,Sylhet,7.2,2738.89
+6/28/2024,INV-1194,Member,Female,Sports,613.3,1,Cash,Rajshahi,9.9,613.3
+4/22/2024,INV-1195,Member,Female,Food & Beverages,205.35,9,Cash,Khulna,5.3,1848.15
+11/13/2024,INV-1196,Normal,Female,Food & Beverages,421.53,2,Cash,Dhaka,7.6,843.06
+2/21/2024,INV-1197,Normal,Female,Food & Beverages,970.94,5,Cash,Dhaka,5.9,4854.7
+9/24/2024,INV-1198,Member,Male,Food & Beverages,295.23,5,Cash,Khulna,9.9,1476.15
+10/21/2024,INV-1199,Member,Male,Food & Beverages,673.9,8,Mobile Payment,Khulna,5.6,5391.2
+4/22/2024,INV-1200,Normal,Female,Sports,358.93,8,Cash,Dhaka,7,2871.44
+4/10/2024,INV-1201,Member,Female,Fashion,784.8,7,Card,Khulna,8.7,5493.6
+4/22/2024,INV-1202,Member,Female,Electronics,174.33,7,Cash,Chittagong,8.5,1220.31
+3/21/2024,INV-1203,Member,Male,Food & Beverages,971.33,6,Cash,Rajshahi,7.1,5827.98
+7/5/2024,INV-1204,Normal,Female,Fashion,481.1,6,Mobile Payment,Rajshahi,6.7,2886.6
+4/22/2024,INV-1205,Normal,Female,Fashion,274.25,9,Mobile Payment,Rajshahi,7,2468.25
+1/2/2024,INV-1206,Normal,Female,Electronics,119.82,6,Card,Chittagong,6.3,718.92
+5/9/2024,INV-1207,Normal,Male,Sports,211.27,2,Card,Khulna,6,422.54
+8/7/2024,INV-1208,Normal,Male,Home & Lifestyle,543.79,2,Mobile Payment,Sylhet,7.4,1087.58
+2/23/2024,INV-1209,Normal,Male,Home & Lifestyle,370.15,5,Mobile Payment,Khulna,6.3,1850.75
+12/8/2024,INV-1210,Normal,Male,Fashion,837.44,4,Cash,Dhaka,6.4,3349.76
+8/11/2024,INV-1211,Member,Male,Health & Beauty,459.34,2,Mobile Payment,Rajshahi,8.3,918.68
+8/12/2024,INV-1212,Member,Male,Health & Beauty,286.28,3,Card,Khulna,9.8,858.84
+5/5/2024,INV-1213,Member,Male,Electronics,636.29,7,Cash,Sylhet,8,4454.03
+5/9/2024,INV-1214,Member,Male,Home & Lifestyle,721.44,8,Card,Dhaka,5.4,5771.52
+2/22/2024,INV-1215,Member,Female,Fashion,208.69,6,Cash,Chittagong,5.4,1252.14
+6/20/2024,INV-1216,Member,Female,Sports,209.24,5,Mobile Payment,Chittagong,9.8,1046.2
+8/5/2024,INV-1217,Member,Male,Home & Lifestyle,84.84,1,Card,Sylhet,6.5,84.84
+6/8/2024,INV-1218,Normal,Male,Fashion,749.58,8,Cash,Dhaka,5.5,5996.64
+7/16/2024,INV-1219,Normal,Female,Fashion,680.61,3,Cash,Rajshahi,8,2041.83
+9/3/2024,INV-1220,Member,Male,Food & Beverages,500.9,6,Mobile Payment,Khulna,8.1,3005.4
+11/19/2024,INV-1221,Member,Male,Sports,851.96,3,Mobile Payment,Dhaka,8.2,2555.88
+7/21/2024,INV-1222,Normal,Male,Food & Beverages,815.39,7,Mobile Payment,Chittagong,6.3,5707.73
+7/2/2024,INV-1223,Member,Female,Electronics,606.09,7,Card,Sylhet,5.1,4242.63
+5/2/2024,INV-1224,Member,Female,Food & Beverages,874.86,9,Cash,Sylhet,9.8,7873.74
+9/11/2024,INV-1225,Normal,Female,Food & Beverages,245.55,5,Mobile Payment,Khulna,6.3,1227.75
+10/20/2024,INV-1226,Member,Female,Home & Lifestyle,156.32,8,Card,Sylhet,8.4,1250.56
+10/6/2024,INV-1227,Normal,Female,Health & Beauty,306.26,8,Card,Sylhet,8.5,2450.08
+11/20/2024,INV-1228,Member,Male,Fashion,104.23,1,Card,Dhaka,8.1,104.23
+4/7/2024,INV-1229,Normal,Female,Sports,554.61,5,Mobile Payment,Rajshahi,6.6,2773.05
+7/16/2024,INV-1230,Normal,Male,Food & Beverages,939.78,3,Mobile Payment,Khulna,6.4,2819.34
+8/27/2024,INV-1231,Normal,Male,Sports,87.38,1,Cash,Dhaka,8,87.38
+5/23/2024,INV-1232,Member,Female,Health & Beauty,166,4,Cash,Rajshahi,9.3,664
+4/6/2024,INV-1233,Normal,Female,Health & Beauty,479.59,8,Mobile Payment,Dhaka,9.7,3836.72
+7/19/2024,INV-1234,Member,Male,Food & Beverages,937.18,3,Card,Dhaka,5.5,2811.54
+5/3/2024,INV-1235,Member,Male,Electronics,350.35,2,Card,Sylhet,5.8,700.7
+7/5/2024,INV-1236,Member,Male,Food & Beverages,531.87,9,Card,Rajshahi,9.7,4786.83
+11/21/2024,INV-1237,Member,Female,Home & Lifestyle,89.49,5,Cash,Khulna,8.7,447.45
+12/14/2024,INV-1238,Normal,Female,Fashion,190.93,7,Card,Khulna,9.4,1336.51
+9/15/2024,INV-1239,Normal,Female,Electronics,987.3,2,Cash,Rajshahi,6,1974.6
+5/27/2024,INV-1240,Member,Female,Food & Beverages,966.86,9,Cash,Sylhet,7.9,8701.74
+9/8/2024,INV-1241,Member,Female,Sports,54.69,9,Card,Chittagong,8.5,492.21
+12/11/2024,INV-1242,Normal,Male,Electronics,954.22,4,Card,Dhaka,8.4,3816.88
+5/26/2024,INV-1243,Member,Female,Electronics,657.16,4,Mobile Payment,Sylhet,7,2628.64
+5/27/2024,INV-1244,Normal,Male,Food & Beverages,874.52,6,Mobile Payment,Rajshahi,5.1,5247.12
+12/17/2024,INV-1245,Member,Male,Electronics,482,6,Card,Dhaka,7.9,2892
+7/17/2024,INV-1246,Member,Male,Sports,539.82,1,Cash,Khulna,6.3,539.82
+11/3/2024,INV-1247,Normal,Female,Health & Beauty,514.4,9,Cash,Chittagong,7.3,4629.6
+5/7/2024,INV-1248,Member,Female,Electronics,683.52,2,Cash,Khulna,9.8,1367.04
+2/8/2024,INV-1249,Normal,Female,Health & Beauty,182.67,5,Cash,Rajshahi,7,913.35
+12/3/2024,INV-1250,Member,Male,Sports,78.47,9,Cash,Dhaka,9.2,706.23
+12/25/2024,INV-1251,Member,Male,Food & Beverages,342.53,4,Mobile Payment,Rajshahi,5.9,1370.12
+5/8/2024,INV-1252,Member,Male,Fashion,719.45,3,Card,Dhaka,8.4,2158.35
+9/23/2024,INV-1253,Normal,Male,Electronics,241.76,7,Mobile Payment,Sylhet,9.9,1692.32
+5/30/2024,INV-1254,Member,Male,Fashion,689.76,6,Cash,Chittagong,5.5,4138.56
+10/24/2024,INV-1255,Member,Male,Sports,971.42,8,Cash,Sylhet,5,7771.36
+4/8/2024,INV-1256,Member,Female,Electronics,139.21,3,Cash,Sylhet,7.2,417.63
+9/19/2024,INV-1257,Member,Female,Health & Beauty,688.97,5,Cash,Rajshahi,5.5,3444.85
+9/8/2024,INV-1258,Normal,Female,Home & Lifestyle,471.56,4,Card,Chittagong,8.7,1886.24
+5/23/2024,INV-1259,Normal,Female,Fashion,874.74,4,Cash,Dhaka,9.6,3498.96
+12/11/2024,INV-1260,Member,Male,Electronics,218.29,4,Card,Dhaka,7.2,873.16
+4/21/2024,INV-1261,Normal,Male,Fashion,707.99,8,Cash,Khulna,6.3,5663.92
+2/29/2024,INV-1262,Member,Female,Electronics,846.21,6,Card,Dhaka,7.2,5077.26
+1/2/2024,INV-1263,Member,Male,Food & Beverages,947.38,3,Mobile Payment,Rajshahi,8.6,2842.14
+10/30/2024,INV-1264,Member,Female,Health & Beauty,699.09,5,Cash,Sylhet,5,3495.45
+9/10/2024,INV-1265,Normal,Female,Fashion,522.32,6,Card,Sylhet,7.9,3133.92
+5/19/2024,INV-1266,Normal,Female,Home & Lifestyle,636.95,5,Mobile Payment,Sylhet,8.1,3184.75
+2/6/2024,INV-1267,Normal,Male,Home & Lifestyle,875.46,6,Cash,Chittagong,8.2,5252.76
+6/8/2024,INV-1268,Normal,Female,Sports,592.08,8,Cash,Dhaka,6.2,4736.64
+1/9/2024,INV-1269,Normal,Female,Electronics,78.87,7,Cash,Rajshahi,8.6,552.09
+8/20/2024,INV-1270,Normal,Female,Fashion,934.4,5,Card,Chittagong,5.5,4672
+4/8/2024,INV-1271,Normal,Male,Sports,705.05,6,Card,Khulna,6,4230.3
+5/26/2024,INV-1272,Normal,Male,Fashion,692.69,4,Mobile Payment,Rajshahi,9.4,2770.76
+10/30/2024,INV-1273,Normal,Female,Electronics,254.89,9,Card,Rajshahi,8.7,2294.01
+7/26/2024,INV-1274,Member,Male,Home & Lifestyle,675.94,4,Card,Rajshahi,5.1,2703.76
+5/10/2024,INV-1275,Normal,Male,Food & Beverages,424.17,1,Cash,Sylhet,6.2,424.17
+5/31/2024,INV-1276,Normal,Male,Home & Lifestyle,668.67,7,Cash,Rajshahi,6.1,4680.69
+2/23/2024,INV-1277,Normal,Male,Sports,151.26,7,Cash,Dhaka,6.4,1058.82
+4/29/2024,INV-1278,Normal,Male,Health & Beauty,674.95,4,Cash,Rajshahi,6.2,2699.8
+6/9/2024,INV-1279,Normal,Male,Food & Beverages,999.44,3,Cash,Sylhet,5.3,2998.32
+4/25/2024,INV-1280,Normal,Male,Sports,95.8,8,Cash,Rajshahi,7.3,766.4
+3/15/2024,INV-1281,Normal,Male,Electronics,978.32,5,Cash,Khulna,8.7,4891.6
+4/22/2024,INV-1282,Normal,Male,Food & Beverages,436.56,7,Mobile Payment,Khulna,8,3055.92
+4/13/2024,INV-1283,Normal,Male,Sports,877.22,4,Mobile Payment,Sylhet,8.4,3508.88
+12/5/2024,INV-1284,Normal,Female,Electronics,793.27,4,Mobile Payment,Dhaka,5.4,3173.08
+9/10/2024,INV-1285,Normal,Female,Home & Lifestyle,588.67,8,Mobile Payment,Dhaka,9.8,4709.36
+8/14/2024,INV-1286,Member,Male,Health & Beauty,751.53,8,Cash,Chittagong,9.2,6012.24
+4/21/2024,INV-1287,Member,Female,Electronics,884.59,2,Mobile Payment,Sylhet,9,1769.18
+4/8/2024,INV-1288,Normal,Female,Fashion,433.93,2,Cash,Rajshahi,9.1,867.86
+6/1/2024,INV-1289,Normal,Male,Electronics,360.68,3,Mobile Payment,Sylhet,9.7,1082.04
+12/14/2024,INV-1290,Member,Male,Electronics,684.21,3,Card,Chittagong,7.7,2052.63
+12/31/2024,INV-1291,Normal,Male,Health & Beauty,817.45,1,Mobile Payment,Sylhet,6,817.45
+12/3/2024,INV-1292,Member,Female,Fashion,774.17,3,Mobile Payment,Sylhet,8.1,2322.51
+7/12/2024,INV-1293,Member,Female,Sports,807.92,6,Cash,Chittagong,8.7,4847.52
+11/5/2024,INV-1294,Member,Male,Sports,463.8,8,Mobile Payment,Dhaka,8.7,3710.4
+6/11/2024,INV-1295,Member,Male,Electronics,826.94,6,Card,Rajshahi,7.6,4961.64
+7/26/2024,INV-1296,Member,Male,Fashion,164.2,5,Cash,Chittagong,5.3,821
+6/17/2024,INV-1297,Normal,Female,Fashion,567.26,4,Cash,Khulna,6.9,2269.04
+6/9/2024,INV-1298,Member,Female,Health & Beauty,55.47,3,Mobile Payment,Dhaka,9.6,166.41
+3/8/2024,INV-1299,Normal,Female,Home & Lifestyle,358.36,4,Cash,Khulna,7.9,1433.44
+10/15/2024,INV-1300,Normal,Female,Sports,398.14,7,Cash,Dhaka,7.7,2786.98
+10/3/2024,INV-1301,Member,Male,Health & Beauty,426.36,1,Cash,Rajshahi,6.3,426.36
+10/30/2024,INV-1302,Member,Male,Food & Beverages,710.69,7,Cash,Rajshahi,6.8,4974.83
+5/14/2024,INV-1303,Normal,Male,Sports,419.13,1,Cash,Sylhet,9.5,419.13
+7/13/2024,INV-1304,Member,Male,Health & Beauty,476.26,2,Cash,Khulna,8.3,952.52
+5/7/2024,INV-1305,Member,Female,Sports,275.67,4,Card,Dhaka,8.9,1102.68
+2/2/2024,INV-1306,Normal,Female,Home & Lifestyle,404.59,1,Mobile Payment,Rajshahi,7.3,404.59
+6/24/2024,INV-1307,Normal,Male,Food & Beverages,265.91,9,Card,Chittagong,8.2,2393.19
+1/22/2024,INV-1308,Member,Male,Home & Lifestyle,119.54,6,Cash,Rajshahi,6.2,717.24
+8/25/2024,INV-1309,Normal,Female,Food & Beverages,623.28,1,Cash,Chittagong,8.5,623.28
+6/6/2024,INV-1310,Member,Male,Electronics,684.8,1,Mobile Payment,Dhaka,7.1,684.8
+2/7/2024,INV-1311,Member,Female,Health & Beauty,638.52,6,Card,Rajshahi,7.2,3831.12
+8/17/2024,INV-1312,Member,Male,Food & Beverages,490.32,4,Mobile Payment,Rajshahi,8.2,1961.28
+12/30/2024,INV-1313,Normal,Male,Home & Lifestyle,410.8,4,Card,Dhaka,9.7,1643.2
+2/20/2024,INV-1314,Normal,Male,Sports,870.17,6,Cash,Rajshahi,5.3,5221.02
+9/20/2024,INV-1315,Normal,Male,Food & Beverages,543.13,7,Mobile Payment,Chittagong,9.1,3801.91
+10/9/2024,INV-1316,Normal,Male,Health & Beauty,505.22,9,Mobile Payment,Rajshahi,6.5,4546.98
+1/27/2024,INV-1317,Normal,Male,Food & Beverages,74.36,5,Cash,Khulna,7.2,371.8
+8/13/2024,INV-1318,Member,Male,Fashion,374.19,9,Mobile Payment,Sylhet,5.1,3367.71
+10/3/2024,INV-1319,Member,Female,Sports,411.19,4,Card,Chittagong,6.5,1644.76
+10/12/2024,INV-1320,Member,Female,Health & Beauty,428.88,2,Card,Khulna,7.5,857.76
+4/6/2024,INV-1321,Member,Female,Health & Beauty,601.16,3,Card,Dhaka,5.3,1803.48
+10/10/2024,INV-1322,Normal,Female,Electronics,556.92,1,Card,Chittagong,7.5,556.92
+11/12/2024,INV-1323,Member,Female,Home & Lifestyle,627.51,6,Cash,Sylhet,9.6,3765.06
+10/30/2024,INV-1324,Normal,Male,Electronics,776.64,6,Mobile Payment,Sylhet,5.5,4659.84
+5/26/2024,INV-1325,Member,Male,Health & Beauty,822.34,1,Card,Dhaka,8.8,822.34
+1/4/2024,INV-1326,Normal,Female,Sports,732.22,3,Cash,Dhaka,7,2196.66
+2/4/2024,INV-1327,Normal,Male,Food & Beverages,957.75,5,Mobile Payment,Chittagong,8.3,4788.75
+7/10/2024,INV-1328,Member,Female,Food & Beverages,67.32,3,Mobile Payment,Rajshahi,6.3,201.96
+2/18/2024,INV-1329,Member,Female,Sports,235.99,3,Cash,Dhaka,5.8,707.97
+1/17/2024,INV-1330,Member,Male,Health & Beauty,57.18,3,Cash,Rajshahi,5.8,171.54
+6/20/2024,INV-1331,Member,Male,Food & Beverages,665.1,5,Card,Khulna,5.4,3325.5
+8/7/2024,INV-1332,Normal,Male,Food & Beverages,903.13,5,Mobile Payment,Sylhet,5.9,4515.65
+6/6/2024,INV-1333,Member,Female,Food & Beverages,281.31,4,Mobile Payment,Rajshahi,8.3,1125.24
+2/15/2024,INV-1334,Member,Male,Home & Lifestyle,930.68,1,Cash,Sylhet,9.4,930.68
+1/6/2024,INV-1335,Normal,Female,Home & Lifestyle,107.25,5,Mobile Payment,Rajshahi,9.1,536.25
+4/8/2024,INV-1336,Member,Female,Fashion,937.71,5,Card,Khulna,8.4,4688.55
+8/20/2024,INV-1337,Member,Female,Electronics,384.04,4,Mobile Payment,Dhaka,5.6,1536.16
+2/6/2024,INV-1338,Member,Male,Sports,146.35,6,Cash,Khulna,6.4,878.1
+10/6/2024,INV-1339,Member,Male,Sports,511.58,4,Cash,Dhaka,6.5,2046.32
+12/14/2024,INV-1340,Member,Female,Sports,293.94,7,Card,Dhaka,6.2,2057.58
+10/28/2024,INV-1341,Normal,Male,Fashion,320.63,7,Card,Sylhet,7.6,2244.41
+6/29/2024,INV-1342,Member,Male,Home & Lifestyle,341.93,2,Mobile Payment,Khulna,7.7,683.86
+4/4/2024,INV-1343,Member,Male,Health & Beauty,812.87,3,Mobile Payment,Rajshahi,6.8,2438.61
+4/8/2024,INV-1344,Member,Female,Health & Beauty,562.2,1,Cash,Khulna,6.8,562.2
+7/6/2024,INV-1345,Member,Female,Fashion,345.74,8,Card,Sylhet,9.1,2765.92
+4/25/2024,INV-1346,Member,Male,Health & Beauty,629.82,9,Card,Dhaka,8.9,5668.38
+7/9/2024,INV-1347,Normal,Female,Sports,730.34,4,Card,Sylhet,6.5,2921.36
+9/9/2024,INV-1348,Member,Male,Electronics,308.99,6,Mobile Payment,Chittagong,9.6,1853.94
+6/9/2024,INV-1349,Normal,Male,Food & Beverages,442.87,9,Card,Chittagong,9.8,3985.83
+9/12/2024,INV-1350,Normal,Male,Home & Lifestyle,165.79,6,Cash,Rajshahi,6.6,994.74
+11/18/2024,INV-1351,Member,Male,Home & Lifestyle,222.09,9,Cash,Sylhet,6.8,1998.81
+5/7/2024,INV-1352,Member,Female,Fashion,697.06,4,Mobile Payment,Rajshahi,7.5,2788.24
+1/18/2024,INV-1353,Member,Female,Home & Lifestyle,222.37,8,Mobile Payment,Rajshahi,9.7,1778.96
+10/7/2024,INV-1354,Member,Female,Sports,548.91,9,Card,Chittagong,9.4,4940.19
+8/10/2024,INV-1355,Normal,Male,Health & Beauty,723.59,4,Mobile Payment,Rajshahi,5.5,2894.36
+2/23/2024,INV-1356,Member,Male,Sports,151.53,5,Cash,Chittagong,7,757.65
+2/27/2024,INV-1357,Member,Male,Fashion,588.95,8,Card,Dhaka,7.8,4711.6
+11/18/2024,INV-1358,Member,Female,Sports,293.73,6,Cash,Sylhet,7.5,1762.38
+12/25/2024,INV-1359,Member,Male,Health & Beauty,964.78,7,Card,Rajshahi,6,6753.46
+6/22/2024,INV-1360,Member,Female,Electronics,509.37,3,Mobile Payment,Chittagong,9.3,1528.11
+10/6/2024,INV-1361,Member,Female,Fashion,815.69,7,Card,Khulna,8.4,5709.83
+4/23/2024,INV-1362,Normal,Female,Electronics,572.72,8,Card,Rajshahi,9.2,4581.76
+10/14/2024,INV-1363,Normal,Female,Food & Beverages,91.24,6,Cash,Dhaka,9.3,547.44
+12/7/2024,INV-1364,Member,Female,Electronics,651.49,9,Cash,Dhaka,8.7,5863.41
+5/30/2024,INV-1365,Member,Female,Food & Beverages,953.83,6,Card,Khulna,7.2,5722.98
+5/6/2024,INV-1366,Member,Male,Food & Beverages,621.53,9,Mobile Payment,Chittagong,8.1,5593.77
+6/3/2024,INV-1367,Normal,Male,Electronics,828.23,4,Mobile Payment,Rajshahi,5.8,3312.92
+9/29/2024,INV-1368,Member,Female,Fashion,890,8,Cash,Chittagong,8.4,7120
+4/13/2024,INV-1369,Normal,Female,Health & Beauty,266.68,4,Mobile Payment,Dhaka,5.9,1066.72
+10/25/2024,INV-1370,Member,Male,Sports,251.44,2,Cash,Chittagong,8.5,502.88
+9/2/2024,INV-1371,Member,Female,Sports,630.43,9,Mobile Payment,Dhaka,6.1,5673.87
+6/24/2024,INV-1372,Member,Female,Health & Beauty,440.48,5,Card,Chittagong,5.6,2202.4
+2/8/2024,INV-1373,Member,Male,Food & Beverages,847.87,4,Cash,Khulna,5.8,3391.48
+6/18/2024,INV-1374,Normal,Female,Food & Beverages,905.02,2,Cash,Sylhet,5,1810.04
+9/3/2024,INV-1375,Normal,Female,Fashion,385.75,1,Card,Khulna,8.6,385.75
+1/26/2024,INV-1376,Member,Female,Home & Lifestyle,275.03,7,Cash,Khulna,8.7,1925.21
+12/20/2024,INV-1377,Member,Male,Electronics,791.5,6,Mobile Payment,Sylhet,7.6,4749
+11/1/2024,INV-1378,Normal,Male,Food & Beverages,311.07,2,Mobile Payment,Sylhet,5.8,622.14
+1/13/2024,INV-1379,Normal,Male,Sports,831.48,8,Cash,Rajshahi,5.4,6651.84
+11/11/2024,INV-1380,Normal,Female,Fashion,452.55,4,Mobile Payment,Rajshahi,5.1,1810.2
+11/8/2024,INV-1381,Normal,Female,Electronics,684.17,8,Cash,Khulna,5.8,5473.36
+2/5/2024,INV-1382,Member,Male,Fashion,140.76,7,Card,Khulna,9.5,985.32
+6/21/2024,INV-1383,Normal,Female,Electronics,642.67,5,Cash,Dhaka,6.2,3213.35
+1/20/2024,INV-1384,Member,Female,Electronics,479.18,8,Card,Dhaka,6.8,3833.44
+11/16/2024,INV-1385,Normal,Female,Health & Beauty,607.28,9,Mobile Payment,Rajshahi,5.5,5465.52
+9/20/2024,INV-1386,Normal,Female,Food & Beverages,209.61,5,Card,Rajshahi,6.1,1048.05
+5/21/2024,INV-1387,Normal,Female,Fashion,750.03,5,Mobile Payment,Dhaka,7.6,3750.15
+5/22/2024,INV-1388,Normal,Male,Fashion,869.66,2,Cash,Dhaka,8,1739.32
+4/1/2024,INV-1389,Normal,Female,Health & Beauty,255.9,5,Mobile Payment,Chittagong,6.2,1279.5
+12/19/2024,INV-1390,Member,Male,Sports,140.93,3,Cash,Chittagong,5.3,422.79
+11/17/2024,INV-1391,Member,Female,Sports,72.46,7,Cash,Dhaka,7,507.22
+10/14/2024,INV-1392,Normal,Male,Food & Beverages,659.87,5,Card,Chittagong,6.2,3299.35
+8/2/2024,INV-1393,Normal,Female,Food & Beverages,626.74,8,Card,Sylhet,6.1,5013.92
+12/7/2024,INV-1394,Member,Male,Home & Lifestyle,569.36,1,Card,Rajshahi,9.8,569.36
+2/20/2024,INV-1395,Normal,Female,Health & Beauty,270.35,3,Card,Rajshahi,8.1,811.05
+6/1/2024,INV-1396,Normal,Male,Sports,421.36,3,Mobile Payment,Dhaka,7.8,1264.08
+7/4/2024,INV-1397,Member,Female,Electronics,614.75,9,Mobile Payment,Khulna,7.1,5532.75
+3/3/2024,INV-1398,Normal,Male,Fashion,521.93,5,Mobile Payment,Dhaka,7.1,2609.65
+7/8/2024,INV-1399,Normal,Female,Food & Beverages,988.4,9,Cash,Chittagong,7.7,8895.6
+5/4/2024,INV-1400,Member,Male,Fashion,179.62,9,Mobile Payment,Khulna,8.5,1616.58
+5/29/2024,INV-1401,Member,Male,Fashion,710.39,1,Mobile Payment,Chittagong,8.5,710.39
+11/9/2024,INV-1402,Member,Female,Home & Lifestyle,434.1,2,Mobile Payment,Sylhet,5.9,868.2
+2/27/2024,INV-1403,Normal,Female,Sports,456.79,5,Card,Chittagong,7.5,2283.95
+12/7/2024,INV-1404,Member,Male,Food & Beverages,731.72,4,Mobile Payment,Sylhet,7.1,2926.88
+10/31/2024,INV-1405,Member,Female,Fashion,707.81,9,Cash,Sylhet,9.4,6370.29
+6/28/2024,INV-1406,Member,Male,Food & Beverages,991.69,7,Card,Chittagong,8.2,6941.83
+6/18/2024,INV-1407,Member,Male,Electronics,171.97,6,Cash,Chittagong,7.7,1031.82
+11/21/2024,INV-1408,Member,Male,Home & Lifestyle,148.9,7,Mobile Payment,Sylhet,5.6,1042.3
+9/27/2024,INV-1409,Member,Female,Electronics,738.12,1,Card,Khulna,8,738.12
+2/23/2024,INV-1410,Normal,Male,Food & Beverages,599.47,1,Cash,Sylhet,5.6,599.47
+4/10/2024,INV-1411,Normal,Male,Food & Beverages,310.45,8,Mobile Payment,Rajshahi,6.7,2483.6
+9/20/2024,INV-1412,Member,Female,Sports,125.45,2,Cash,Sylhet,5.7,250.9
+2/22/2024,INV-1413,Member,Female,Fashion,131.38,9,Cash,Khulna,8.5,1182.42
+2/29/2024,INV-1414,Member,Female,Fashion,899.48,7,Cash,Rajshahi,6,6296.36
+4/17/2024,INV-1415,Normal,Female,Electronics,232.27,6,Mobile Payment,Dhaka,7,1393.62
+1/5/2024,INV-1416,Normal,Male,Home & Lifestyle,357.2,1,Mobile Payment,Dhaka,9.5,357.2
+4/12/2024,INV-1417,Normal,Male,Health & Beauty,265.32,1,Cash,Khulna,6,265.32
+7/14/2024,INV-1418,Normal,Male,Fashion,387.25,2,Card,Sylhet,7.5,774.5
+9/18/2024,INV-1419,Normal,Male,Sports,115.95,6,Card,Chittagong,7.1,695.7
+12/30/2024,INV-1420,Normal,Female,Electronics,543.11,6,Mobile Payment,Khulna,5.1,3258.66
+12/15/2024,INV-1421,Normal,Male,Electronics,114.23,2,Mobile Payment,Rajshahi,9,228.46
+2/16/2024,INV-1422,Normal,Male,Health & Beauty,810.34,1,Mobile Payment,Rajshahi,5.3,810.34
+12/20/2024,INV-1423,Normal,Female,Sports,272.03,5,Mobile Payment,Dhaka,7.4,1360.15
+11/6/2024,INV-1424,Member,Male,Home & Lifestyle,563.01,5,Mobile Payment,Rajshahi,7.8,2815.05
+11/3/2024,INV-1425,Member,Male,Sports,886.08,2,Card,Khulna,8.1,1772.16
+5/23/2024,INV-1426,Member,Male,Home & Lifestyle,668.33,6,Mobile Payment,Rajshahi,8.4,4009.98
+9/25/2024,INV-1427,Member,Male,Sports,556.31,9,Cash,Khulna,6.3,5006.79
+5/3/2024,INV-1428,Normal,Male,Sports,358.12,2,Cash,Chittagong,5,716.24
+4/15/2024,INV-1429,Normal,Male,Food & Beverages,366.35,2,Card,Dhaka,8.6,732.7
+6/6/2024,INV-1430,Member,Female,Electronics,686.01,3,Cash,Rajshahi,7.7,2058.03
+5/26/2024,INV-1431,Normal,Female,Sports,994.43,7,Card,Khulna,9.2,6961.01
+5/24/2024,INV-1432,Member,Male,Health & Beauty,678.75,6,Card,Sylhet,9.1,4072.5
+4/29/2024,INV-1433,Normal,Male,Sports,579.89,8,Cash,Dhaka,9.2,4639.12
+11/14/2024,INV-1434,Member,Female,Fashion,744.12,8,Mobile Payment,Chittagong,7.4,5952.96
+10/1/2024,INV-1435,Normal,Male,Electronics,491.95,6,Cash,Khulna,6.7,2951.7
+4/1/2024,INV-1436,Normal,Male,Fashion,107.14,3,Cash,Chittagong,9,321.42
+2/27/2024,INV-1437,Member,Male,Electronics,584.18,3,Card,Chittagong,7.3,1752.54
+12/11/2024,INV-1438,Normal,Female,Fashion,959.74,1,Cash,Rajshahi,5.9,959.74
+8/16/2024,INV-1439,Member,Male,Sports,216.54,7,Card,Rajshahi,9.3,1515.78
+4/26/2024,INV-1440,Member,Female,Sports,705.5,5,Mobile Payment,Khulna,9.4,3527.5
+11/13/2024,INV-1441,Member,Male,Food & Beverages,240.89,4,Mobile Payment,Sylhet,7.3,963.56
+10/5/2024,INV-1442,Member,Female,Health & Beauty,559.04,4,Mobile Payment,Khulna,5.4,2236.16
+5/6/2024,INV-1443,Normal,Female,Fashion,141.84,4,Cash,Sylhet,6.9,567.36
+5/8/2024,INV-1444,Normal,Male,Home & Lifestyle,477.85,6,Card,Chittagong,9,2867.1
+2/27/2024,INV-1445,Normal,Female,Food & Beverages,768.36,8,Mobile Payment,Dhaka,9.5,6146.88
+5/1/2024,INV-1446,Member,Male,Fashion,380.19,8,Card,Khulna,6,3041.52
+1/1/2024,INV-1447,Normal,Female,Fashion,681.67,5,Card,Khulna,5.3,3408.35
+8/26/2024,INV-1448,Member,Male,Food & Beverages,805.68,6,Mobile Payment,Sylhet,9.4,4834.08
+10/16/2024,INV-1449,Normal,Male,Sports,930.82,4,Mobile Payment,Chittagong,6.9,3723.28
+4/5/2024,INV-1450,Normal,Female,Fashion,272.91,9,Card,Chittagong,7.7,2456.19
+5/5/2024,INV-1451,Normal,Male,Sports,429.35,8,Mobile Payment,Sylhet,9.8,3434.8
+4/27/2024,INV-1452,Member,Male,Food & Beverages,194.8,1,Card,Chittagong,5.3,194.8
+2/17/2024,INV-1453,Normal,Female,Sports,992.86,2,Card,Rajshahi,8.2,1985.72
+3/29/2024,INV-1454,Normal,Male,Electronics,930.65,9,Mobile Payment,Dhaka,5.4,8375.85
+8/24/2024,INV-1455,Member,Male,Home & Lifestyle,562.96,8,Cash,Khulna,6.9,4503.68
+9/28/2024,INV-1456,Normal,Female,Fashion,849.93,3,Mobile Payment,Dhaka,9,2549.79
+7/7/2024,INV-1457,Member,Female,Health & Beauty,544.91,8,Cash,Khulna,7.2,4359.28
+7/10/2024,INV-1458,Normal,Male,Home & Lifestyle,642.41,1,Card,Rajshahi,10,642.41
+3/9/2024,INV-1459,Member,Male,Sports,134.67,4,Card,Chittagong,7.8,538.68
+10/4/2024,INV-1460,Member,Female,Fashion,767.51,3,Cash,Sylhet,6.6,2302.53
+12/14/2024,INV-1461,Normal,Female,Sports,171.33,6,Card,Rajshahi,6.1,1027.98
+9/3/2024,INV-1462,Member,Male,Electronics,834.76,7,Cash,Dhaka,6.8,5843.32
+3/16/2024,INV-1463,Member,Female,Food & Beverages,792.93,4,Cash,Sylhet,6.9,3171.72
+6/2/2024,INV-1464,Member,Male,Fashion,723.31,7,Card,Chittagong,5.3,5063.17
+5/23/2024,INV-1465,Member,Male,Electronics,84.35,9,Cash,Rajshahi,6.8,759.15
+3/26/2024,INV-1466,Member,Male,Electronics,337.97,2,Mobile Payment,Sylhet,7.3,675.94
+7/3/2024,INV-1467,Member,Male,Fashion,299.96,3,Mobile Payment,Rajshahi,8.6,899.88
+10/11/2024,INV-1468,Normal,Male,Sports,392.13,5,Card,Rajshahi,8.3,1960.65
+8/7/2024,INV-1469,Member,Female,Health & Beauty,133.26,3,Card,Chittagong,8.5,399.78
+3/9/2024,INV-1470,Member,Female,Electronics,940.11,8,Cash,Khulna,5,7520.88
+2/16/2024,INV-1471,Normal,Female,Home & Lifestyle,576.11,8,Cash,Sylhet,6.1,4608.88
+4/3/2024,INV-1472,Normal,Female,Electronics,340.25,8,Cash,Chittagong,8.3,2722
+8/25/2024,INV-1473,Normal,Male,Health & Beauty,427.13,9,Cash,Rajshahi,7.4,3844.17
+7/22/2024,INV-1474,Normal,Male,Sports,474.84,4,Mobile Payment,Chittagong,5,1899.36
+8/5/2024,INV-1475,Normal,Male,Sports,620.56,5,Mobile Payment,Khulna,9,3102.8
+12/6/2024,INV-1476,Normal,Male,Home & Lifestyle,539.9,5,Card,Sylhet,8.9,2699.5
+2/8/2024,INV-1477,Normal,Female,Electronics,923.42,8,Cash,Khulna,7.7,7387.36
+4/9/2024,INV-1478,Member,Male,Sports,522.12,7,Cash,Dhaka,5.3,3654.84
+10/15/2024,INV-1479,Member,Male,Health & Beauty,992.55,9,Card,Sylhet,8.8,8932.95
+9/10/2024,INV-1480,Normal,Female,Fashion,858.85,8,Cash,Khulna,7.9,6870.8
+8/9/2024,INV-1481,Member,Female,Food & Beverages,248.08,2,Cash,Rajshahi,8.9,496.16
+12/22/2024,INV-1482,Member,Female,Food & Beverages,934.07,4,Cash,Sylhet,8.8,3736.28
+1/23/2024,INV-1483,Member,Female,Food & Beverages,160.55,6,Cash,Sylhet,9,963.3
+9/6/2024,INV-1484,Normal,Male,Electronics,826.58,2,Cash,Chittagong,7.6,1653.16
+1/10/2024,INV-1485,Normal,Male,Home & Lifestyle,411.59,7,Card,Rajshahi,5.7,2881.13
+9/2/2024,INV-1486,Member,Female,Sports,884.08,3,Cash,Dhaka,8.4,2652.24
+11/20/2024,INV-1487,Normal,Male,Fashion,874.65,3,Card,Khulna,8.1,2623.95
+4/9/2024,INV-1488,Member,Male,Health & Beauty,815.63,2,Cash,Chittagong,8.7,1631.26
+10/16/2024,INV-1489,Member,Male,Fashion,800.53,8,Mobile Payment,Khulna,5.8,6404.24
+6/28/2024,INV-1490,Member,Female,Health & Beauty,339.45,6,Mobile Payment,Dhaka,6,2036.7
+8/10/2024,INV-1491,Member,Male,Electronics,126.87,1,Mobile Payment,Dhaka,9.5,126.87
+9/6/2024,INV-1492,Normal,Female,Food & Beverages,432.83,1,Mobile Payment,Sylhet,8.7,432.83
+5/26/2024,INV-1493,Normal,Male,Electronics,214.85,7,Card,Dhaka,9.5,1503.95
+4/5/2024,INV-1494,Normal,Male,Home & Lifestyle,710.2,8,Card,Khulna,8.8,5681.6
+9/13/2024,INV-1495,Member,Male,Home & Lifestyle,378.79,5,Cash,Rajshahi,8,1893.95
+11/20/2024,INV-1496,Normal,Female,Health & Beauty,976.83,5,Mobile Payment,Rajshahi,8.3,4884.15
+1/4/2024,INV-1497,Member,Male,Sports,658.92,4,Card,Sylhet,9.4,2635.68
+1/16/2024,INV-1498,Normal,Female,Sports,831.36,6,Cash,Khulna,7.9,4988.16
+10/6/2024,INV-1499,Member,Female,Health & Beauty,175.9,6,Cash,Khulna,8.2,1055.4
